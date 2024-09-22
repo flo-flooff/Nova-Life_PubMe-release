@@ -17,6 +17,9 @@
 ## Fonctionnement
 En jeu, dans le chat, marquez juste `/` suivi du lien que vous voulez et faites ↵ Entrée, vous devriez recevoir un message avec un lien si vous en avez mis un.
 
+## Installation
+Téléchargez le fichier `.dll` et mettez le dans votre dossier `Plugins` et exécutez votre serveur, le plugin va créer un fichier config à son nom dans le dossier `Config`. Vous pouvez modifier à tous moments les valeurs sans redémarrer votre serveur juste avec la commande de rechargement du plugin.
+
 ## Condition d'utilisation
 Par respect, je vous demanderais de ne pas copier, vous approprier, vendre ou quoi que ce soit d'autre, de me contacter sur [LE DISCORD](https://discord.gg/yamsE7BEE7) que j'ai mis en place pour toutes demandes sur mes plugins, merci de votre compréhension. 🙂
 
